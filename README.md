@@ -24,7 +24,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - vidnoz para geração de vídeo com avatar
 
 ## Links Uteis
-- [Notion](https://www.notion.so/FirewallCast-Pr-ticas-para-fortalecer-sua-defesa-digital-2805a848730d80e08a2ef5ca13f036d4) 
+- [Notion](https://www.notion.so/FirewallCast-Pr-ticas-para-fortalecer-sua-defesa-digital-2805a848730d80e08a2ef5ca13f036d4)
+- [Linkedin](https://www.linkedin.com/in/miguel-de-lima)
 
 
 <br/><br/>
